@@ -1,6 +1,6 @@
 # Пример файла README.md
 
-Copyright (C) by Alexey Savelichev.
+Copyright (c) by Alexey Savelichev.
 
 ## Введение
 
